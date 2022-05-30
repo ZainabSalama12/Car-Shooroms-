@@ -1,0 +1,3 @@
+﻿  Utils.cpp
+C:\Users\Lenovo\source\repos\Car_Showrooms\Utils.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+  Car_Showrooms.vcxproj -> C:\Users\Lenovo\source\repos\Car_Showrooms\Debug\Car_Showrooms.exe
